@@ -1,2 +1,2 @@
-FROM  gcr.io/google-containers/kube-addon-manager-amd64:v6.5
+FROM  k8s.gcr.io/kube-addon-manager:v8.6
 MAINTAINER cheneydc <cheneydc@gmail.com>
